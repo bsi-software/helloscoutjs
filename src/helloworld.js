@@ -1,5 +1,5 @@
 import { scout, App } from '@eclipse-scout/core';
-import { Desktop } from './desktop/Desktop'
+import { Desktop } from './desktop/Desktop';
 
 scout.addObjectFactories({
   'Desktop': () => new Desktop()
