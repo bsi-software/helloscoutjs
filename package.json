@@ -5,11 +5,11 @@
     "serve": "live-server --mount=/:dist"
   },
   "devDependencies": {
-    "@eclipse-scout/cli": "^26.1.0",
-    "@eclipse-scout/tsconfig": "^26.1.0",
+    "@eclipse-scout/cli": "^26.2.0",
+    "@eclipse-scout/tsconfig": "^26.2.0",
     "live-server": "^1.2.2"
   },
   "dependencies": {
-    "@eclipse-scout/core": "^26.1.0"
+    "@eclipse-scout/core": "^26.2.0"
   }
 }
